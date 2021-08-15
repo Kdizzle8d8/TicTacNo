@@ -1,0 +1,19 @@
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+
+    .wrapper {
+
+
+        .boxes {
+            display: flex;
+            width: 306px;
+            flex-wrap: wrap;
+            background: lightgrey;
+
+
+        }
+    }
+}
